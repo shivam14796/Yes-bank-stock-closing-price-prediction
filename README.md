@@ -1,8 +1,8 @@
-📈 Yes Bank Stock Closing Price Prediction | Machine Learning Project
-🧠 Project Overview
+📈 Yes Bank Stock Closing Price Prediction | Machine Learning Project---
+🧠 Project Overview--
 This project focuses on predicting the closing price of Yes Bank's stock using historical data and regression-based machine learning models. It demonstrates a full workflow of data preprocessing, exploratory data analysis, feature transformation, model building, and evaluation using Python.
 
-📁 Dataset Summary
+📁 Dataset Summary---
 Source: Historical Yes Bank stock data
 Period: Monthly (2005–2020)
 Records: 185 rows
@@ -17,8 +17,8 @@ PowerTransformer – Feature transformation
 Matplotlib, Seaborn – Data visualization
 mplfinance – Financial chart formatting
 GridSearchCV – Hyperparameter tuning
-🔄 Workflow Summary
-1. Data Preprocessing
+🔄 Workflow Summary-----
+1. Data Preprocessing--
 Converted date column to datetime
 Checked for missing/null values (none found)
 Applied feature scaling & Power Transformation
